@@ -11,3 +11,20 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+def speak_to_grandma(string)
+  #{string}= "phrase"
+  if "phrase" == "phrase".upcase
+  
+  puts "NO, NOT SINCE 1938!"
+  
+elseif "phrase" == "I love you Grandma"
+  puts "I LOVE YOU TOO PUMPKIN!"
+  
+else puts 
+  "HUH?! SPEAK UP, SONNY!"
+  
+end
+
+
+  
