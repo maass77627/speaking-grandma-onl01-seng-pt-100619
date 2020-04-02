@@ -4,7 +4,7 @@
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
-# If you shout, she can hear you (or at least she thinks so) 
+# If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
 # NO, NOT SINCE 1938!
@@ -15,17 +15,17 @@
 def speak_to_grandma(string)
   #{string}= "phrase"
   if "phrase" == "phrase".upcase
-  
+
   puts "NO, NOT SINCE 1938!"
-  
+
 elseif "phrase" == "I love you Grandma"
   puts "I LOVE YOU TOO PUMPKIN!"
-  
-else puts 
+
+else puts
   "HUH?! SPEAK UP, SONNY!"
-  
+
 end
-end 
+end
 
 
   
